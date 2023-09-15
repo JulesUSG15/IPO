@@ -1,4 +1,4 @@
-package src;
+package TD1.src;
 public class Rectangle extends Shape{
     double length;
     double width;
